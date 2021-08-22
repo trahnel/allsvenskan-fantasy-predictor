@@ -1,0 +1,8 @@
+element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,own_goals,attacking_bonus,defending_bonus,crosses,key_passes,big_chances_created,clearances_blocks_interceptions,recoveries,value,transfers_balance,selected,transfers_in,transfers_out
+451,75,16,6,True,2021-07-11T13:00:00Z,5,1,10,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,45,0,0,0,0
+451,88,8,1,False,2021-07-18T13:00:00Z,0,2,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,42,44,43,1
+451,90,9,1,True,2021-07-25T15:30:00Z,2,1,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,45,21,65,26,5
+451,104,11,2,False,2021-08-01T15:30:00Z,1,1,13,72,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,45,11,77,17,6
+451,109,4,1,False,2021-08-08T15:30:00Z,0,0,14,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,45,-2,76,8,10
+451,114,5,0,True,2021-08-15T15:30:00Z,0,2,15,45,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,4,45,23,100,32,9
+451,124,5,4,False,2021-08-22T13:00:00Z,2,2,16,27,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,2,1,45,36,137,50,14

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 18,
-      "code": 2270045,
-      "team_h": 7,
-      "team_h_score": null,
-      "team_a": 9,
-      "team_a_score": null,
-      "event": 3,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2022-04-16T13:00:00Z",
-      "event_name": "Omg\u00e5ng 3",
-      "is_home": true
-    },
-    {
       "id": 27,
       "code": 2270055,
       "team_h": 4,
@@ -491,6 +476,41 @@
       "selected": 13901,
       "transfers_in": 164,
       "transfers_out": 186
+    },
+    {
+      "element": 234,
+      "fixture": 18,
+      "opponent_team": 9,
+      "total_points": 2,
+      "was_home": true,
+      "kickoff_time": "2022-04-16T13:00:00Z",
+      "team_h_score": 2,
+      "team_a_score": 1,
+      "round": 3,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 1,
+      "winning_goals": 0,
+      "crosses": 0,
+      "key_passes": 0,
+      "big_chances_created": 0,
+      "clearances_blocks_interceptions": 10,
+      "recoveries": 6,
+      "value": 65,
+      "transfers_balance": -471,
+      "selected": 13505,
+      "transfers_in": 87,
+      "transfers_out": 558
     }
   ],
   "history_past": [

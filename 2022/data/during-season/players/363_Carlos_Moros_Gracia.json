@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 35,
-      "code": 2270067,
-      "team_h": 13,
-      "team_h_score": null,
-      "team_a": 14,
-      "team_a_score": null,
-      "event": 5,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2022-04-24T13:00:00Z",
-      "event_name": "Omg\u00e5ng 5",
-      "is_home": false
-    },
-    {
       "id": 45,
       "code": 2270074,
       "team_h": 14,
@@ -101,7 +86,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-06-25T23:00:00Z",
+      "kickoff_time": "2022-06-26T13:00:00Z",
       "event_name": "Omg\u00e5ng 11",
       "is_home": true
     },
@@ -531,6 +516,41 @@
       "selected": 1620,
       "transfers_in": 184,
       "transfers_out": 45
+    },
+    {
+      "element": 363,
+      "fixture": 35,
+      "opponent_team": 13,
+      "total_points": 8,
+      "was_home": false,
+      "kickoff_time": "2022-04-24T13:00:00Z",
+      "team_h_score": 0,
+      "team_a_score": 0,
+      "round": 5,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 1,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 2,
+      "winning_goals": 0,
+      "crosses": 0,
+      "key_passes": 0,
+      "big_chances_created": 0,
+      "clearances_blocks_interceptions": 22,
+      "recoveries": 11,
+      "value": 55,
+      "transfers_balance": 104,
+      "selected": 1751,
+      "transfers_in": 130,
+      "transfers_out": 26
     }
   ],
   "history_past": [

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 42,
-      "code": 2270068,
-      "team_h": 6,
-      "team_h_score": null,
-      "team_a": 13,
-      "team_a_score": null,
-      "event": 6,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2022-05-01T15:30:00Z",
-      "event_name": "Omg\u00e5ng 6",
-      "is_home": false
-    },
-    {
       "id": 53,
       "code": 2270083,
       "team_h": 13,
@@ -101,7 +86,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-07-02T23:00:00Z",
+      "kickoff_time": "2022-07-03T13:00:00Z",
       "event_name": "Omg\u00e5ng 12",
       "is_home": true
     },
@@ -116,7 +101,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-07-09T23:00:00Z",
+      "kickoff_time": "2022-07-09T13:00:00Z",
       "event_name": "Omg\u00e5ng 13",
       "is_home": false
     },
@@ -131,7 +116,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-07-16T23:00:00Z",
+      "kickoff_time": "2022-07-18T17:00:00Z",
       "event_name": "Omg\u00e5ng 14",
       "is_home": true
     },
@@ -146,7 +131,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-07-23T23:00:00Z",
+      "kickoff_time": "2022-07-25T17:00:00Z",
       "event_name": "Omg\u00e5ng 15",
       "is_home": true
     },
@@ -161,7 +146,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-07-30T23:00:00Z",
+      "kickoff_time": "2022-07-30T15:30:00Z",
       "event_name": "Omg\u00e5ng 16",
       "is_home": false
     },
@@ -176,7 +161,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-08-06T23:00:00Z",
+      "kickoff_time": "2022-08-08T17:00:00Z",
       "event_name": "Omg\u00e5ng 17",
       "is_home": true
     },
@@ -191,7 +176,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-08-13T23:00:00Z",
+      "kickoff_time": "2022-08-14T15:30:00Z",
       "event_name": "Omg\u00e5ng 18",
       "is_home": false
     },
@@ -206,7 +191,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-08-20T23:00:00Z",
+      "kickoff_time": "2022-08-21T13:00:00Z",
       "event_name": "Omg\u00e5ng 19",
       "is_home": true
     },
@@ -221,7 +206,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-08-27T23:00:00Z",
+      "kickoff_time": "2022-08-28T13:00:00Z",
       "event_name": "Omg\u00e5ng 20",
       "is_home": true
     },
@@ -236,7 +221,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2022-09-03T23:00:00Z",
+      "kickoff_time": "2022-09-05T17:00:00Z",
       "event_name": "Omg\u00e5ng 21",
       "is_home": false
     },
@@ -551,6 +536,41 @@
       "selected": 980,
       "transfers_in": 54,
       "transfers_out": 24
+    },
+    {
+      "element": 325,
+      "fixture": 42,
+      "opponent_team": 6,
+      "total_points": 3,
+      "was_home": false,
+      "kickoff_time": "2022-05-01T15:30:00Z",
+      "team_h_score": 3,
+      "team_a_score": 1,
+      "round": 6,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 7,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "crosses": 0,
+      "key_passes": 0,
+      "big_chances_created": 0,
+      "clearances_blocks_interceptions": 14,
+      "recoveries": 14,
+      "value": 50,
+      "transfers_balance": 15,
+      "selected": 919,
+      "transfers_in": 35,
+      "transfers_out": 20
     }
   ],
   "history_past": [

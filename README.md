@@ -1,18 +1,23 @@
 # Introduction
-Machine learning project to preduct Allsvenskan Fantasy
+
+Machine learning project to predict Allsvenskan Fantasy
 
 # Getting started
+
 To set up the conda environment:
+
 ```
-conda env create -n env
+conda env create -n af-predictor
 ```
 
 To activate environment:
+
 ```
-conda activate env
+conda activate af-predictor
 ```
 
 To start jupyter:
+
 ```
 jupyter notebook
 ```

@@ -1,0 +1,32 @@
+name: Fetch Allsvenskan Fantasy Data
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  fetch-and-store-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch Allsvenskan Fantasy Data
+        run: python scripts/fetch_allsvenskan_fantasy_data.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "rahnel.taavi+github-action-bot@gmail.com"
+          git config --local user.name "GitHub Action Bot"
+          git add -A
+          git commit -m "Automated data update"
+          git push

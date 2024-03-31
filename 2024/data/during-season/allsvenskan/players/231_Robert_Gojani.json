@@ -461,7 +461,7 @@
       "attacking_bonus": 0,
       "defending_bonus": 0,
       "winning_goals": 0,
-      "key_passes": 0,
+      "key_passes": 1,
       "clearances_blocks_interceptions": 4,
       "value": 45,
       "transfers_balance": 0,

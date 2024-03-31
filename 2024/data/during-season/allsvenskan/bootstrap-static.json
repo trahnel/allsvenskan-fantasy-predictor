@@ -1437,7 +1437,7 @@
       "win": 0
     }
   ],
-  "total_players": 51128,
+  "total_players": 51130,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -3244,7 +3244,7 @@
       "photo": "60641.jpg",
       "points_per_game": "0.0",
       "second_name": "Fenger",
-      "selected_by_percent": "1.5",
+      "selected_by_percent": "1.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11947,8 +11947,8 @@
       "total_points": 0,
       "transfers_in": 1,
       "transfers_in_event": 1,
-      "transfers_out": 9,
-      "transfers_out_event": 9,
+      "transfers_out": 10,
+      "transfers_out_event": 10,
       "value_form": "0.0",
       "value_season": "0.0",
       "web_name": "S\u00f6gaard",
@@ -13450,7 +13450,7 @@
       "photo": "97528.jpg",
       "points_per_game": "0.0",
       "second_name": "Skrabb",
-      "selected_by_percent": "23.7",
+      "selected_by_percent": "23.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19019,8 +19019,8 @@
       "team": 18,
       "team_code": 6210,
       "total_points": 0,
-      "transfers_in": 1,
-      "transfers_in_event": 1,
+      "transfers_in": 2,
+      "transfers_in_event": 2,
       "transfers_out": 4,
       "transfers_out_event": 4,
       "value_form": "0.0",

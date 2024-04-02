@@ -29,6 +29,11 @@ jobs:
         run: |
           git config --local user.email "rahnel.taavi+data-update-bot@gmail.com"
           git config --local user.name "Data Update Bot"
-          git add -A
-          git commit -m "Automated bootstrap static update, $(date +'%Y-%m-%d %H:%M:%S') UTC"
-          git push
+          git_status=$(git status --porcelain)
+          if [ -n "$git_status" ]; then
+            git add -A
+            git commit -m "Automated bootstrap static update, $(date +'%Y-%m-%d %H:%M:%S') UTC"
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -1,4 +1,4 @@
-name: Fetch Allsvenskan Fantasy Data
+name: Get Bootstrap Static
 
 on:
   schedule:
@@ -22,13 +22,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch Allsvenskan Fantasy Data
-        run: python scripts/fetch_allsvenskan_fantasy_data.py
+      - name: Get Bootstrap Static
+        run: python scripts/get_bootstrap_static.py
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "rahnel.taavi+github-action-bot@gmail.com"
-          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "rahnel.taavi+data-update-bot@gmail.com"
+          git config --local user.name "Data Update Bot"
           git add -A
-          git commit -m "Automated data update, $(date +'%Y-%m-%d %H:%M:%S') UTC"
+          git commit -m "Automated bootstrap static update, $(date +'%Y-%m-%d %H:%M:%S') UTC"
           git push

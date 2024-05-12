@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 59,
-      "code": 2417302,
-      "team_h": 15,
-      "team_h_score": null,
-      "team_a": 14,
-      "team_a_score": null,
-      "event": 8,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2024-05-11T13:00:00Z",
-      "event_name": "Omg\u00e5ng 8",
-      "is_home": false
-    },
-    {
       "id": 67,
       "code": 2417309,
       "team_h": 14,
@@ -570,6 +555,38 @@
       "selected": 6127,
       "transfers_in": 883,
       "transfers_out": 203
+    },
+    {
+      "element": 375,
+      "fixture": 59,
+      "opponent_team": 15,
+      "total_points": 12,
+      "was_home": false,
+      "kickoff_time": "2024-05-11T13:00:00Z",
+      "team_h_score": 1,
+      "team_a_score": 3,
+      "round": 8,
+      "minutes": 90,
+      "goals_scored": 1,
+      "assists": 1,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 1,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 2,
+      "clearances_blocks_interceptions": 6,
+      "value": 52,
+      "transfers_balance": 457,
+      "selected": 6604,
+      "transfers_in": 595,
+      "transfers_out": 138
     }
   ],
   "history_past": [

@@ -1657,7 +1657,7 @@
       "win": 0
     }
   ],
-  "total_players": 57936,
+  "total_players": 57937,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -21662,7 +21662,7 @@
       "photo": "443250.jpg",
       "points_per_game": "4.2",
       "second_name": "St\u00e5hl",
-      "selected_by_percent": "20.6",
+      "selected_by_percent": "20.5",
       "special": false,
       "squad_number": null,
       "status": "a",

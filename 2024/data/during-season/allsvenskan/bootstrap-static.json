@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 57957,
+  "total_players": 57958,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -20275,7 +20275,7 @@
       "photo": "477684.jpg",
       "points_per_game": "4.0",
       "second_name": "Christensen",
-      "selected_by_percent": "9.4",
+      "selected_by_percent": "9.3",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -21390,10 +21390,10 @@
       "chance_of_playing_next_round": 0,
       "chance_of_playing_this_round": 0,
       "code": 422704,
-      "cost_change_event": 0,
-      "cost_change_event_fall": 0,
-      "cost_change_start": 0,
-      "cost_change_start_fall": 0,
+      "cost_change_event": -1,
+      "cost_change_event_fall": 1,
+      "cost_change_start": -1,
+      "cost_change_start_fall": 1,
       "dreamteam_count": 0,
       "element_type": 4,
       "ep_next": "0.0",
@@ -21405,7 +21405,7 @@
       "in_dreamteam": false,
       "news": "Skadad. F\u00f6rv\u00e4ntas vara borta fram till h\u00f6sten.",
       "news_added": "2024-03-12T12:55:56.139163Z",
-      "now_cost": 45,
+      "now_cost": 44,
       "photo": "422704.jpg",
       "points_per_game": "0.0",
       "second_name": "Jordan",

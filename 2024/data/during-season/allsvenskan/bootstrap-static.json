@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 57971,
+  "total_players": 57972,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -1915,7 +1915,7 @@
       "photo": "228760.jpg",
       "points_per_game": "6.6",
       "second_name": "Cornelius",
-      "selected_by_percent": "25.6",
+      "selected_by_percent": "25.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11050,8 +11050,8 @@
       "total_points": 52,
       "transfers_in": 4337,
       "transfers_in_event": 2,
-      "transfers_out": 13022,
-      "transfers_out_event": 677,
+      "transfers_out": 13023,
+      "transfers_out_event": 678,
       "value_form": "0.8",
       "value_season": "6.7",
       "web_name": "L. Bergvall",
@@ -17798,8 +17798,8 @@
       "team": 12,
       "team_code": 195,
       "total_points": 58,
-      "transfers_in": 2123,
-      "transfers_in_event": 71,
+      "transfers_in": 2124,
+      "transfers_in_event": 72,
       "transfers_out": 957,
       "transfers_out_event": 27,
       "value_form": "0.7",

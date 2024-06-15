@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 57984,
+  "total_players": 57985,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -11050,8 +11050,8 @@
       "total_points": 52,
       "transfers_in": 4337,
       "transfers_in_event": 2,
-      "transfers_out": 13042,
-      "transfers_out_event": 697,
+      "transfers_out": 13043,
+      "transfers_out_event": 698,
       "value_form": "0.8",
       "value_season": "6.7",
       "web_name": "L. Bergvall",
@@ -17798,8 +17798,8 @@
       "team": 12,
       "team_code": 195,
       "total_points": 58,
-      "transfers_in": 2126,
-      "transfers_in_event": 74,
+      "transfers_in": 2127,
+      "transfers_in_event": 75,
       "transfers_out": 957,
       "transfers_out_event": 27,
       "value_form": "0.5",

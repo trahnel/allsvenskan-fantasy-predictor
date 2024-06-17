@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 58011,
+  "total_players": 58014,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -3643,7 +3643,7 @@
       "photo": "245912.jpg",
       "points_per_game": "4.6",
       "second_name": "Pinas",
-      "selected_by_percent": "5.4",
+      "selected_by_percent": "5.5",
       "special": false,
       "squad_number": null,
       "status": "a",

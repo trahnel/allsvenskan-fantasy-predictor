@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 58027,
+  "total_players": 58028,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -15530,8 +15530,8 @@
       "team": 31,
       "team_code": 670,
       "total_points": 38,
-      "transfers_in": 1206,
-      "transfers_in_event": 7,
+      "transfers_in": 1207,
+      "transfers_in_event": 8,
       "transfers_out": 2030,
       "transfers_out_event": 25,
       "value_form": "1.6",
@@ -19906,8 +19906,8 @@
       "total_points": 46,
       "transfers_in": 866,
       "transfers_in_event": 120,
-      "transfers_out": 103,
-      "transfers_out_event": 11,
+      "transfers_out": 104,
+      "transfers_out_event": 12,
       "value_form": "2.0",
       "value_season": "8.5",
       "web_name": "Kalu",

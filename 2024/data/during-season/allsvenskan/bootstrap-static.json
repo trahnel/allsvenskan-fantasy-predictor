@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 58045,
+  "total_players": 58046,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -13802,8 +13802,8 @@
       "team": 10,
       "team_code": 2594,
       "total_points": 41,
-      "transfers_in": 314,
-      "transfers_in_event": 0,
+      "transfers_in": 315,
+      "transfers_in_event": 1,
       "transfers_out": 462,
       "transfers_out_event": 2,
       "value_form": "0.2",
@@ -19744,8 +19744,8 @@
       "total_points": 32,
       "transfers_in": 578,
       "transfers_in_event": 2,
-      "transfers_out": 213,
-      "transfers_out_event": 7,
+      "transfers_out": 214,
+      "transfers_out_event": 8,
       "value_form": "0.3",
       "value_season": "7.1",
       "web_name": "Adjei",

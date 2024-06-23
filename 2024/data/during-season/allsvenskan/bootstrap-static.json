@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 58051,
+  "total_players": 58052,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -3436,8 +3436,8 @@
       "total_points": 48,
       "transfers_in": 1404,
       "transfers_in_event": 33,
-      "transfers_out": 691,
-      "transfers_out_event": 23,
+      "transfers_out": 693,
+      "transfers_out_event": 25,
       "value_form": "1.4",
       "value_season": "8.7",
       "web_name": "Kurtulus",
@@ -3650,8 +3650,8 @@
       "team": 2,
       "team_code": 1987,
       "total_points": 51,
-      "transfers_in": 2395,
-      "transfers_in_event": 286,
+      "transfers_in": 2397,
+      "transfers_in_event": 288,
       "transfers_out": 1161,
       "transfers_out_event": 11,
       "value_form": "1.3",

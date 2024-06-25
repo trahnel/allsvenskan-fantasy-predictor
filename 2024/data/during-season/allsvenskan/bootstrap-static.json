@@ -1674,7 +1674,7 @@
       "win": 0
     }
   ],
-  "total_players": 58068,
+  "total_players": 58070,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -8179,15 +8179,15 @@
       "photo": "531067.jpg",
       "points_per_game": "4.7",
       "second_name": "Qasem",
-      "selected_by_percent": "9.9",
+      "selected_by_percent": "10.0",
       "special": false,
       "squad_number": null,
       "status": "a",
       "team": 5,
       "team_code": 375,
       "total_points": 56,
-      "transfers_in": 5405,
-      "transfers_in_event": 245,
+      "transfers_in": 5406,
+      "transfers_in_event": 246,
       "transfers_out": 588,
       "transfers_out_event": 23,
       "value_form": "0.5",
@@ -20932,8 +20932,8 @@
       "total_points": 55,
       "transfers_in": 18949,
       "transfers_in_event": 57,
-      "transfers_out": 6346,
-      "transfers_out_event": 112,
+      "transfers_out": 6347,
+      "transfers_out_event": 113,
       "value_form": "0.4",
       "value_season": "10.2",
       "web_name": "Fritzson",

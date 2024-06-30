@@ -1675,7 +1675,7 @@
       "win": 0
     }
   ],
-  "total_players": 58106,
+  "total_players": 58107,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -2303,8 +2303,8 @@
       "total_points": 96,
       "transfers_in": 12609,
       "transfers_in_event": 67,
-      "transfers_out": 1681,
-      "transfers_out_event": 157,
+      "transfers_out": 1682,
+      "transfers_out_event": 158,
       "value_form": "0.3",
       "value_season": "7.7",
       "web_name": "Nanasi",
@@ -3921,8 +3921,8 @@
       "team": 2,
       "team_code": 1987,
       "total_points": 86,
-      "transfers_in": 5348,
-      "transfers_in_event": 244,
+      "transfers_in": 5349,
+      "transfers_in_event": 245,
       "transfers_out": 4794,
       "transfers_out_event": 16,
       "value_form": "1.2",

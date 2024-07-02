@@ -1675,7 +1675,7 @@
       "win": 0
     }
   ],
-  "total_players": 58125,
+  "total_players": 58127,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -8081,8 +8081,8 @@
       "total_points": 57,
       "transfers_in": 3145,
       "transfers_in_event": 43,
-      "transfers_out": 2261,
-      "transfers_out_event": 48,
+      "transfers_out": 2262,
+      "transfers_out_event": 49,
       "value_form": "0.0",
       "value_season": "7.1",
       "web_name": "Hedlund",
@@ -9807,8 +9807,8 @@
       "team": 6,
       "team_code": 1959,
       "total_points": 72,
-      "transfers_in": 15776,
-      "transfers_in_event": 275,
+      "transfers_in": 15777,
+      "transfers_in_event": 276,
       "transfers_out": 1954,
       "transfers_out_event": 119,
       "value_form": "0.4",

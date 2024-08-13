@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 140,
-      "code": 2417377,
-      "team_h": 2,
-      "team_h_score": null,
-      "team_a": 21,
-      "team_a_score": null,
-      "event": 18,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2024-08-12T17:00:00Z",
-      "event_name": "Omg\u00e5ng 18",
-      "is_home": true
-    },
-    {
       "id": 151,
       "code": 2417389,
       "team_h": 18,
@@ -300,8 +285,8 @@
       "total_points": 0,
       "was_home": true,
       "kickoff_time": "2024-08-12T17:00:00Z",
-      "team_h_score": null,
-      "team_a_score": null,
+      "team_h_score": 3,
+      "team_a_score": 3,
       "round": 18,
       "minutes": 0,
       "goals_scored": 0,

@@ -160,8 +160,8 @@
       "event": 30,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2024-11-10T00:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2024-11-10T14:00:00Z",
       "event_name": "Omg\u00e5ng 30",
       "is_home": false
     }

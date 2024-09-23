@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 179,
-      "code": 2417420,
-      "team_h": 31,
-      "team_h_score": null,
-      "team_a": 7,
-      "team_a_score": null,
-      "event": 23,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2024-09-22T12:00:00Z",
-      "event_name": "Omg\u00e5ng 23",
-      "is_home": false
-    },
-    {
       "id": 185,
       "code": 2417424,
       "team_h": 7,
@@ -289,8 +274,8 @@
       "total_points": 0,
       "was_home": false,
       "kickoff_time": "2024-09-22T12:00:00Z",
-      "team_h_score": null,
-      "team_a_score": null,
+      "team_h_score": 3,
+      "team_a_score": 0,
       "round": 23,
       "minutes": 0,
       "goals_scored": 0,

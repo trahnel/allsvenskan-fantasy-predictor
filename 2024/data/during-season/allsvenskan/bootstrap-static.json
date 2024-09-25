@@ -11786,7 +11786,7 @@
       "attacking_bonus": 8,
       "defending_bonus": 7,
       "winning_goals": 2,
-      "key_passes": 24,
+      "key_passes": 25,
       "clearances_blocks_interceptions": 139
     },
     {
@@ -17727,7 +17727,7 @@
       "defending_bonus": 20,
       "winning_goals": 0,
       "key_passes": 5,
-      "clearances_blocks_interceptions": 235
+      "clearances_blocks_interceptions": 236
     },
     {
       "chance_of_playing_next_round": null,
@@ -28743,7 +28743,7 @@
       "defending_bonus": 2,
       "winning_goals": 1,
       "key_passes": 4,
-      "clearances_blocks_interceptions": 28
+      "clearances_blocks_interceptions": 27
     },
     {
       "chance_of_playing_next_round": null,

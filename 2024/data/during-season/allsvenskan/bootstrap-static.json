@@ -1962,7 +1962,7 @@
       "win": 0
     }
   ],
-  "total_players": 59183,
+  "total_players": 59184,
   "elements": [
     {
       "chance_of_playing_next_round": null,
@@ -12061,8 +12061,8 @@
       "total_points": 123,
       "transfers_in": 16226,
       "transfers_in_event": 51,
-      "transfers_out": 11000,
-      "transfers_out_event": 177,
+      "transfers_out": 11001,
+      "transfers_out_event": 178,
       "value_form": "0.5",
       "value_season": "13.8",
       "web_name": "H\u00fcmmet",
@@ -21959,8 +21959,8 @@
       "team": 21,
       "team_code": 2352,
       "total_points": 147,
-      "transfers_in": 24897,
-      "transfers_in_event": 393,
+      "transfers_in": 24898,
+      "transfers_in_event": 394,
       "transfers_out": 8036,
       "transfers_out_event": 5,
       "value_form": "0.9",

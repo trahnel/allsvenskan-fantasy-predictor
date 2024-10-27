@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 222,
-      "code": 2417461,
-      "team_h": 14,
-      "team_h_score": null,
-      "team_a": 31,
-      "team_a_score": null,
-      "event": 28,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2024-10-26T13:00:00Z",
-      "event_name": "Omg\u00e5ng 28",
-      "is_home": false
-    },
-    {
       "id": 229,
       "code": 2417468,
       "team_h": 6,
@@ -910,6 +895,38 @@
       "selected": 2339,
       "transfers_in": 13,
       "transfers_out": 40
+    },
+    {
+      "element": 255,
+      "fixture": 222,
+      "opponent_team": 14,
+      "total_points": 0,
+      "was_home": false,
+      "kickoff_time": "2024-10-26T13:00:00Z",
+      "team_h_score": 1,
+      "team_a_score": 1,
+      "round": 28,
+      "minutes": 0,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 0,
+      "value": 45,
+      "transfers_balance": -67,
+      "selected": 2271,
+      "transfers_in": 4,
+      "transfers_out": 71
     }
   ],
   "history_past": [

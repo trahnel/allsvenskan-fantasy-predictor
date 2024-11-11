@@ -1360,8 +1360,8 @@
       "name": "Omg\u00e5ng 30",
       "deadline_time": "2024-11-10T13:55:00Z",
       "release_time": null,
-      "average_entry_score": 38,
-      "finished": false,
+      "average_entry_score": 45,
+      "finished": true,
       "data_checked": false,
       "highest_scoring_entry": 6806,
       "deadline_time_epoch": 1731246900,
@@ -1508,7 +1508,7 @@
       "name": "Fas 6",
       "start_event": 26,
       "stop_event": 30,
-      "highest_score": 404
+      "highest_score": 411
     }
   ],
   "teams": [

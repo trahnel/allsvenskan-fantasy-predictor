@@ -1362,7 +1362,7 @@
       "release_time": null,
       "average_entry_score": 45,
       "finished": true,
-      "data_checked": false,
+      "data_checked": true,
       "highest_scoring_entry": 6806,
       "deadline_time_epoch": 1731246900,
       "deadline_time_game_offset": 0,

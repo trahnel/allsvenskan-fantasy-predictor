@@ -1232,34 +1232,17 @@
       "cup_leagues_created": true,
       "h2h_ko_matches_created": true,
       "ranked_count": 59195,
-      "chip_plays": [
-        {
-          "chip_name": "wildcard",
-          "num_played": 349
-        },
-        {
-          "chip_name": "pdbus",
-          "num_played": 838
-        },
-        {
-          "chip_name": "2capt",
-          "num_played": 742
-        },
-        {
-          "chip_name": "uteam",
-          "num_played": 174
-        }
-      ],
-      "most_selected": 28,
-      "most_transferred_in": 364,
+      "chip_plays": [],
+      "most_selected": null,
+      "most_transferred_in": null,
       "top_element": 42,
       "top_element_info": {
         "id": 42,
         "points": 15
       },
-      "transfers_made": 18263,
-      "most_captained": 27,
-      "most_vice_captained": 28
+      "transfers_made": null,
+      "most_captained": null,
+      "most_vice_captained": null
     },
     {
       "id": 28,

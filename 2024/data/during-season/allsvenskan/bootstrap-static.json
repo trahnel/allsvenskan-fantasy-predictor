@@ -1252,8 +1252,11 @@
       ],
       "most_selected": 28,
       "most_transferred_in": 364,
-      "top_element": null,
-      "top_element_info": null,
+      "top_element": 42,
+      "top_element_info": {
+        "id": 42,
+        "points": 15
+      },
       "transfers_made": 18263,
       "most_captained": 27,
       "most_vice_captained": 28

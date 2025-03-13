@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 17723,
+  "total_players": 17728,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5762,7 +5762,7 @@
       "points_per_game": "1.3",
       "removed": false,
       "second_name": "Mamatsashvili",
-      "selected_by_percent": "2.7",
+      "selected_by_percent": "2.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6568,7 +6568,7 @@
       "points_per_game": "2.0",
       "removed": false,
       "second_name": "Pyndt",
-      "selected_by_percent": "0.3",
+      "selected_by_percent": "0.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10102,7 +10102,7 @@
       "points_per_game": "3.9",
       "removed": false,
       "second_name": "Lindberg",
-      "selected_by_percent": "4.8",
+      "selected_by_percent": "4.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -18100,7 +18100,7 @@
       "points_per_game": "5.5",
       "removed": false,
       "second_name": "Stroud",
-      "selected_by_percent": "49.7",
+      "selected_by_percent": "49.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -20766,7 +20766,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Agnero",
-      "selected_by_percent": "9.5",
+      "selected_by_percent": "9.4",
       "special": false,
       "squad_number": null,
       "status": "a",

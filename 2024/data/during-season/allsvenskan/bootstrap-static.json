@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 17721,
+  "total_players": 17723,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -20766,7 +20766,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Agnero",
-      "selected_by_percent": "9.4",
+      "selected_by_percent": "9.5",
       "special": false,
       "squad_number": null,
       "status": "a",

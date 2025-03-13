@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 17718,
+  "total_players": 17721,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -6568,7 +6568,7 @@
       "points_per_game": "2.0",
       "removed": false,
       "second_name": "Pyndt",
-      "selected_by_percent": "0.4",
+      "selected_by_percent": "0.3",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -14380,7 +14380,7 @@
       "points_per_game": "5.4",
       "removed": false,
       "second_name": "Vasic",
-      "selected_by_percent": "19.9",
+      "selected_by_percent": "20.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -14814,7 +14814,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Andersson",
-      "selected_by_percent": "6.9",
+      "selected_by_percent": "6.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15248,7 +15248,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Peprah Oppong",
-      "selected_by_percent": "5.0",
+      "selected_by_percent": "5.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17294,7 +17294,7 @@
       "points_per_game": "2.7",
       "removed": false,
       "second_name": "Ayari",
-      "selected_by_percent": "0.4",
+      "selected_by_percent": "0.3",
       "special": false,
       "squad_number": null,
       "status": "a",

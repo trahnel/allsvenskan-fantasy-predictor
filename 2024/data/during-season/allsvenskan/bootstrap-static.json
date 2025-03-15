@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 21471,
+  "total_players": 21480,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2166,7 +2166,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Ellborg",
-      "selected_by_percent": "2.9",
+      "selected_by_percent": "2.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10412,7 +10412,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Faye",
-      "selected_by_percent": "23.3",
+      "selected_by_percent": "23.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11838,7 +11838,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Bergh",
-      "selected_by_percent": "0.4",
+      "selected_by_percent": "0.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13450,7 +13450,7 @@
       "points_per_game": "2.0",
       "removed": false,
       "second_name": "Calisir",
-      "selected_by_percent": "6.0",
+      "selected_by_percent": "5.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17108,7 +17108,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Al-Saed",
-      "selected_by_percent": "2.7",
+      "selected_by_percent": "2.6",
       "special": false,
       "squad_number": null,
       "status": "a",

@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 23068,
+  "total_players": 23071,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -7064,7 +7064,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "Svensson",
-      "selected_by_percent": "13.7",
+      "selected_by_percent": "13.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11280,7 +11280,7 @@
       "points_per_game": "2.4",
       "removed": false,
       "second_name": "Hrstic",
-      "selected_by_percent": "15.1",
+      "selected_by_percent": "15.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -14380,7 +14380,7 @@
       "points_per_game": "5.4",
       "removed": false,
       "second_name": "Vasic",
-      "selected_by_percent": "17.0",
+      "selected_by_percent": "16.9",
       "special": false,
       "squad_number": null,
       "status": "i",
@@ -18100,7 +18100,7 @@
       "points_per_game": "5.5",
       "removed": false,
       "second_name": "Stroud",
-      "selected_by_percent": "50.2",
+      "selected_by_percent": "50.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -23866,7 +23866,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Wallinder",
-      "selected_by_percent": "1.2",
+      "selected_by_percent": "1.1",
       "special": false,
       "squad_number": null,
       "status": "a",

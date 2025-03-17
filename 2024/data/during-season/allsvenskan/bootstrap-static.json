@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 24625,
+  "total_players": 24626,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -4770,7 +4770,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "Tekie",
-      "selected_by_percent": "10.7",
+      "selected_by_percent": "10.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6940,7 +6940,7 @@
       "points_per_game": "1.0",
       "removed": false,
       "second_name": "Tolf",
-      "selected_by_percent": "17.0",
+      "selected_by_percent": "17.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10164,7 +10164,7 @@
       "points_per_game": "2.5",
       "removed": false,
       "second_name": "Lundkvist",
-      "selected_by_percent": "2.7",
+      "selected_by_percent": "2.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -12706,7 +12706,7 @@
       "points_per_game": "3.8",
       "removed": false,
       "second_name": "Nguen",
-      "selected_by_percent": "17.5",
+      "selected_by_percent": "17.6",
       "special": false,
       "squad_number": null,
       "status": "a",

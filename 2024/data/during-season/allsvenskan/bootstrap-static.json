@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 26025,
+  "total_players": 26031,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3592,7 +3592,7 @@
       "points_per_game": "4.9",
       "removed": false,
       "second_name": "Botheim",
-      "selected_by_percent": "39.1",
+      "selected_by_percent": "39.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -12458,7 +12458,7 @@
       "points_per_game": "2.7",
       "removed": false,
       "second_name": "Stensson",
-      "selected_by_percent": "0.8",
+      "selected_by_percent": "0.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13884,7 +13884,7 @@
       "points_per_game": "3.2",
       "removed": false,
       "second_name": "Odefalk",
-      "selected_by_percent": "3.4",
+      "selected_by_percent": "3.3",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15372,7 +15372,7 @@
       "points_per_game": "3.3",
       "removed": false,
       "second_name": "Moberg Karlsson",
-      "selected_by_percent": "9.9",
+      "selected_by_percent": "9.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17976,7 +17976,7 @@
       "points_per_game": "3.8",
       "removed": false,
       "second_name": "T\u00f6rnqvist",
-      "selected_by_percent": "34.5",
+      "selected_by_percent": "34.6",
       "special": false,
       "squad_number": null,
       "status": "a",

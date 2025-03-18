@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 26020,
+  "total_players": 26025,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3964,7 +3964,7 @@
       "points_per_game": "4.0",
       "removed": false,
       "second_name": "Skoglund",
-      "selected_by_percent": "14.8",
+      "selected_by_percent": "14.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11280,7 +11280,7 @@
       "points_per_game": "2.4",
       "removed": false,
       "second_name": "Hrstic",
-      "selected_by_percent": "19.7",
+      "selected_by_percent": "19.8",
       "special": false,
       "squad_number": null,
       "status": "a",

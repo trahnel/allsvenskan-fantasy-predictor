@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 29466,
+  "total_players": 29467,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -18348,7 +18348,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Pettersson",
-      "selected_by_percent": "3.1",
+      "selected_by_percent": "3.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -18720,7 +18720,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "R\u00f8jkj\u00e6r",
-      "selected_by_percent": "12.2",
+      "selected_by_percent": "12.3",
       "special": false,
       "squad_number": null,
       "status": "a",

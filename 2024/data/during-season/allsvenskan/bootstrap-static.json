@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 29464,
+  "total_players": 29466,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -4770,7 +4770,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "Tekie",
-      "selected_by_percent": "10.9",
+      "selected_by_percent": "10.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10908,7 +10908,7 @@
       "points_per_game": "4.2",
       "removed": false,
       "second_name": "Layouni",
-      "selected_by_percent": "3.1",
+      "selected_by_percent": "3.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19402,7 +19402,7 @@
       "points_per_game": "3.9",
       "removed": false,
       "second_name": "Bergstr\u00f6m",
-      "selected_by_percent": "12.2",
+      "selected_by_percent": "12.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19774,7 +19774,7 @@
       "points_per_game": "3.4",
       "removed": false,
       "second_name": "Boman",
-      "selected_by_percent": "3.0",
+      "selected_by_percent": "3.1",
       "special": false,
       "squad_number": null,
       "status": "a",

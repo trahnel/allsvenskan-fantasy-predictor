@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 31249,
+  "total_players": 31251,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3902,7 +3902,7 @@
       "points_per_game": "5.9",
       "removed": false,
       "second_name": "Pinas",
-      "selected_by_percent": "20.6",
+      "selected_by_percent": "20.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -12148,7 +12148,7 @@
       "points_per_game": "4.7",
       "removed": false,
       "second_name": "Gulliksen",
-      "selected_by_percent": "9.2",
+      "selected_by_percent": "9.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19650,7 +19650,7 @@
       "points_per_game": "3.9",
       "removed": false,
       "second_name": "Erlandsson",
-      "selected_by_percent": "4.0",
+      "selected_by_percent": "4.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19712,7 +19712,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Nogueira",
-      "selected_by_percent": "9.8",
+      "selected_by_percent": "9.7",
       "special": false,
       "squad_number": null,
       "status": "n",

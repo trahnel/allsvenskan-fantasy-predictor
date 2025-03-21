@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 31258,
+  "total_players": 31266,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3592,7 +3592,7 @@
       "points_per_game": "4.9",
       "removed": false,
       "second_name": "Botheim",
-      "selected_by_percent": "34.5",
+      "selected_by_percent": "34.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6754,7 +6754,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Dahlberg",
-      "selected_by_percent": "2.3",
+      "selected_by_percent": "2.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15248,7 +15248,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Peprah Oppong",
-      "selected_by_percent": "4.8",
+      "selected_by_percent": "4.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -16364,7 +16364,7 @@
       "points_per_game": "4.2",
       "removed": false,
       "second_name": "Nordfeldt",
-      "selected_by_percent": "12.7",
+      "selected_by_percent": "12.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19650,7 +19650,7 @@
       "points_per_game": "3.9",
       "removed": false,
       "second_name": "Erlandsson",
-      "selected_by_percent": "4.1",
+      "selected_by_percent": "4.0",
       "special": false,
       "squad_number": null,
       "status": "a",

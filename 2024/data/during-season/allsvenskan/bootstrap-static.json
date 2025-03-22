@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 32553,
+  "total_players": 32564,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3530,7 +3530,7 @@
       "points_per_game": "5.2",
       "removed": false,
       "second_name": "Thelin",
-      "selected_by_percent": "18.3",
+      "selected_by_percent": "18.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -3902,7 +3902,7 @@
       "points_per_game": "5.9",
       "removed": false,
       "second_name": "Pinas",
-      "selected_by_percent": "20.7",
+      "selected_by_percent": "20.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -24300,7 +24300,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Varmanen",
-      "selected_by_percent": "0.1",
+      "selected_by_percent": "0.2",
       "special": false,
       "squad_number": null,
       "status": "a",

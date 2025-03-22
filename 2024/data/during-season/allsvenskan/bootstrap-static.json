@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 32564,
+  "total_players": 32569,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -14628,7 +14628,7 @@
       "points_per_game": "1.3",
       "removed": false,
       "second_name": "Sever",
-      "selected_by_percent": "4.3",
+      "selected_by_percent": "4.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -26160,7 +26160,7 @@
       "points_per_game": "4.9",
       "removed": false,
       "second_name": "Lundgren",
-      "selected_by_percent": "28.1",
+      "selected_by_percent": "28.2",
       "special": false,
       "squad_number": null,
       "status": "a",

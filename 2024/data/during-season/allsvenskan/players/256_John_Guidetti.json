@@ -151,6 +151,21 @@
       "is_home": true
     },
     {
+      "id": 142,
+      "code": 2496424,
+      "team_h": 1,
+      "team_h_score": null,
+      "team_a": 12,
+      "team_a_score": null,
+      "event": 10,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-05-22T17:00:00Z",
+      "event_name": "Omg\u00e5ng 10",
+      "is_home": false
+    },
+    {
       "id": 83,
       "code": 2496365,
       "team_h": 21,
@@ -254,21 +269,6 @@
       "kickoff_time": "2025-07-26T23:00:00Z",
       "event_name": "Omg\u00e5ng 17",
       "is_home": true
-    },
-    {
-      "id": 142,
-      "code": 2496424,
-      "team_h": 1,
-      "team_h_score": null,
-      "team_a": 12,
-      "team_a_score": null,
-      "event": 18,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2025-08-02T23:00:00Z",
-      "event_name": "Omg\u00e5ng 18",
-      "is_home": false
     },
     {
       "id": 145,

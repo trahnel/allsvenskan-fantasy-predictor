@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 33762,
+  "total_players": 33764,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2910,7 +2910,7 @@
       "points_per_game": "4.5",
       "removed": false,
       "second_name": "Bolin",
-      "selected_by_percent": "15.3",
+      "selected_by_percent": "15.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -16550,7 +16550,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Tiedemann Hansen",
-      "selected_by_percent": "9.2",
+      "selected_by_percent": "9.1",
       "special": false,
       "squad_number": null,
       "status": "i",
@@ -20208,7 +20208,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Chrupalla",
-      "selected_by_percent": "1.9",
+      "selected_by_percent": "2.0",
       "special": false,
       "squad_number": null,
       "status": "a",

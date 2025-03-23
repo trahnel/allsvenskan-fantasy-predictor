@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 33766,
+  "total_players": 33771,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2910,7 +2910,7 @@
       "points_per_game": "4.5",
       "removed": false,
       "second_name": "Bolin",
-      "selected_by_percent": "15.3",
+      "selected_by_percent": "15.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -4398,7 +4398,7 @@
       "points_per_game": "6.3",
       "removed": false,
       "second_name": "Besara",
-      "selected_by_percent": "26.9",
+      "selected_by_percent": "27.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -8738,7 +8738,7 @@
       "points_per_game": "3.4",
       "removed": false,
       "second_name": "Wikstr\u00f6m",
-      "selected_by_percent": "4.8",
+      "selected_by_percent": "4.9",
       "special": false,
       "squad_number": null,
       "status": "a",

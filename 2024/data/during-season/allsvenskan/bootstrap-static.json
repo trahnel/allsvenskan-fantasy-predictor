@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 35029,
+  "total_players": 35037,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2352,7 +2352,7 @@
       "points_per_game": "4.2",
       "removed": false,
       "second_name": "Stryger Larsen",
-      "selected_by_percent": "5.5",
+      "selected_by_percent": "5.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11714,7 +11714,7 @@
       "points_per_game": "2.9",
       "removed": false,
       "second_name": "Kosugi",
-      "selected_by_percent": "13.8",
+      "selected_by_percent": "13.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15248,7 +15248,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Peprah Oppong",
-      "selected_by_percent": "5.4",
+      "selected_by_percent": "5.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15372,7 +15372,7 @@
       "points_per_game": "3.3",
       "removed": false,
       "second_name": "Moberg Karlsson",
-      "selected_by_percent": "10.5",
+      "selected_by_percent": "10.6",
       "special": false,
       "squad_number": null,
       "status": "a",

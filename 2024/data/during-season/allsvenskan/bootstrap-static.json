@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 39845,
+  "total_players": 39850,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5762,7 +5762,7 @@
       "points_per_game": "1.3",
       "removed": false,
       "second_name": "Mamatsashvili",
-      "selected_by_percent": "2.0",
+      "selected_by_percent": "1.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6816,7 +6816,7 @@
       "points_per_game": "4.2",
       "removed": false,
       "second_name": "Bishesari",
-      "selected_by_percent": "3.9",
+      "selected_by_percent": "3.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13140,7 +13140,7 @@
       "points_per_game": "3.4",
       "removed": false,
       "second_name": "Christensen",
-      "selected_by_percent": "1.6",
+      "selected_by_percent": "1.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -18720,7 +18720,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "R\u00f8jkj\u00e6r",
-      "selected_by_percent": "11.5",
+      "selected_by_percent": "11.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -25602,7 +25602,7 @@
       "points_per_game": "2.2",
       "removed": false,
       "second_name": "Sims",
-      "selected_by_percent": "0.7",
+      "selected_by_percent": "0.6",
       "special": false,
       "squad_number": null,
       "status": "a",

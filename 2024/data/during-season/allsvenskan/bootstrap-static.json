@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 42666,
+  "total_players": 42673,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -7808,7 +7808,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Th\u00f3rdarson",
-      "selected_by_percent": "3.8",
+      "selected_by_percent": "3.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -8738,7 +8738,7 @@
       "points_per_game": "3.4",
       "removed": false,
       "second_name": "Wikstr\u00f6m",
-      "selected_by_percent": "5.0",
+      "selected_by_percent": "4.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -9296,7 +9296,7 @@
       "points_per_game": "1.2",
       "removed": false,
       "second_name": "Rapp",
-      "selected_by_percent": "15.0",
+      "selected_by_percent": "15.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17790,7 +17790,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Redkin",
-      "selected_by_percent": "0.8",
+      "selected_by_percent": "0.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -21510,7 +21510,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Morgado",
-      "selected_by_percent": "0.5",
+      "selected_by_percent": "0.4",
       "special": false,
       "squad_number": null,
       "status": "a",

@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 46399,
+  "total_players": 46411,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -6940,7 +6940,7 @@
       "points_per_game": "1.0",
       "removed": false,
       "second_name": "Tolf",
-      "selected_by_percent": "20.9",
+      "selected_by_percent": "20.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -8738,7 +8738,7 @@
       "points_per_game": "3.4",
       "removed": false,
       "second_name": "Wikstr\u00f6m",
-      "selected_by_percent": "5.2",
+      "selected_by_percent": "5.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11900,7 +11900,7 @@
       "points_per_game": "2.7",
       "removed": false,
       "second_name": "Une",
-      "selected_by_percent": "1.3",
+      "selected_by_percent": "1.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -20766,7 +20766,7 @@
       "points_per_game": "3.5",
       "removed": false,
       "second_name": "Agnero",
-      "selected_by_percent": "13.4",
+      "selected_by_percent": "13.3",
       "special": false,
       "squad_number": null,
       "status": "a",

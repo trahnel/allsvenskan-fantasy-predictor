@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 46426,
+  "total_players": 46453,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -6940,7 +6940,7 @@
       "points_per_game": "1.0",
       "removed": false,
       "second_name": "Tolf",
-      "selected_by_percent": "20.9",
+      "selected_by_percent": "20.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17976,7 +17976,7 @@
       "points_per_game": "3.8",
       "removed": false,
       "second_name": "T\u00f6rnqvist",
-      "selected_by_percent": "36.2",
+      "selected_by_percent": "36.1",
       "special": false,
       "squad_number": null,
       "status": "a",

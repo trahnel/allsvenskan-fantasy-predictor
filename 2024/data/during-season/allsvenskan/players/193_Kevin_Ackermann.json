@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 2,
-      "code": 2496287,
-      "team_h": 6,
-      "team_h_score": null,
-      "team_a": 21,
-      "team_a_score": null,
-      "event": 1,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-03-29T16:30:00Z",
-      "event_name": "Omg\u00e5ng 1",
-      "is_home": false
-    },
-    {
       "id": 12,
       "code": 2496292,
       "team_h": 21,
@@ -451,7 +436,41 @@
       "is_home": true
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "element": 193,
+      "fixture": 2,
+      "opponent_team": 6,
+      "total_points": 3,
+      "was_home": false,
+      "kickoff_time": "2025-03-29T16:30:00Z",
+      "team_h_score": 2,
+      "team_a_score": 0,
+      "round": 1,
+      "modified": false,
+      "minutes": 80,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 1,
+      "defending_bonus": 1,
+      "winning_goals": 0,
+      "key_passes": 2,
+      "clearances_blocks_interceptions": 12,
+      "value": 50,
+      "transfers_balance": 0,
+      "selected": 118,
+      "transfers_in": 0,
+      "transfers_out": 0
+    }
+  ],
   "history_past": [
     {
       "season_name": "2018",

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 5,
-      "code": 2496284,
-      "team_h": 2,
-      "team_h_score": null,
-      "team_a": 4,
-      "team_a_score": null,
-      "event": 1,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-03-30T12:00:00Z",
-      "event_name": "Omg\u00e5ng 1",
-      "is_home": true
-    },
-    {
       "id": 12,
       "code": 2496292,
       "team_h": 21,
@@ -459,8 +444,8 @@
       "total_points": 0,
       "was_home": true,
       "kickoff_time": "2025-03-30T12:00:00Z",
-      "team_h_score": null,
-      "team_a_score": null,
+      "team_h_score": 4,
+      "team_a_score": 0,
       "round": 1,
       "modified": false,
       "minutes": 0,

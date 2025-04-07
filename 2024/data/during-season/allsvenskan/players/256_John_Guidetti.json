@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 11,
-      "code": 2496291,
-      "team_h": 12,
-      "team_h_score": null,
-      "team_a": 9,
-      "team_a_score": null,
-      "event": 2,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-04-06T12:00:00Z",
-      "event_name": "Omg\u00e5ng 2",
-      "is_home": true
-    },
-    {
       "id": 23,
       "code": 2496299,
       "team_h": 12,
@@ -469,6 +454,39 @@
       "selected": 1313,
       "transfers_in": 0,
       "transfers_out": 0
+    },
+    {
+      "element": 256,
+      "fixture": 11,
+      "opponent_team": 9,
+      "total_points": 5,
+      "was_home": true,
+      "kickoff_time": "2025-04-06T12:00:00Z",
+      "team_h_score": 4,
+      "team_a_score": 3,
+      "round": 2,
+      "modified": false,
+      "minutes": 19,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 0,
+      "value": 75,
+      "transfers_balance": -117,
+      "selected": 1310,
+      "transfers_in": 18,
+      "transfers_out": 135
     }
   ],
   "history_past": [

@@ -1936,7 +1936,7 @@
       "win": 0
     }
   ],
-  "total_players": 65516,
+  "total_players": 65519,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -4050,7 +4050,7 @@
       "defending_bonus": 3,
       "winning_goals": 0,
       "key_passes": 3,
-      "clearances_blocks_interceptions": 30
+      "clearances_blocks_interceptions": 29
     },
     {
       "can_transact": true,
@@ -11628,18 +11628,18 @@
       "cost_change_start_fall": 0,
       "dreamteam_count": 1,
       "element_type": 2,
-      "ep_next": "6.3",
-      "ep_this": "6.3",
-      "event_points": 2,
+      "ep_next": "6.0",
+      "ep_this": "6.0",
+      "event_points": 1,
       "first_name": "Adam",
-      "form": "6.3",
+      "form": "6.0",
       "id": 155,
       "in_dreamteam": false,
       "news": "",
       "news_added": null,
       "now_cost": 60,
       "photo": "443250.jpg",
-      "points_per_game": "6.3",
+      "points_per_game": "6.0",
       "removed": false,
       "second_name": "St\u00e5hl",
       "selected_by_percent": "16.6",
@@ -11648,13 +11648,13 @@
       "status": "a",
       "team": 7,
       "team_code": 1406,
-      "total_points": 19,
+      "total_points": 18,
       "transfers_in": 1472,
       "transfers_in_event": 156,
       "transfers_out": 271,
       "transfers_out_event": 12,
       "value_form": "1.0",
-      "value_season": "3.2",
+      "value_season": "3.0",
       "web_name": "St\u00e5hl",
       "region": null,
       "team_join_date": null,
@@ -11673,10 +11673,10 @@
       "saves": 0,
       "own_goals": 0,
       "attacking_bonus": 0,
-      "defending_bonus": 3,
+      "defending_bonus": 2,
       "winning_goals": 1,
       "key_passes": 1,
-      "clearances_blocks_interceptions": 25
+      "clearances_blocks_interceptions": 24
     },
     {
       "can_transact": true,
@@ -11986,7 +11986,7 @@
       "defending_bonus": 3,
       "winning_goals": 0,
       "key_passes": 1,
-      "clearances_blocks_interceptions": 31
+      "clearances_blocks_interceptions": 32
     },
     {
       "can_transact": true,
@@ -12482,7 +12482,7 @@
       "defending_bonus": 2,
       "winning_goals": 0,
       "key_passes": 0,
-      "clearances_blocks_interceptions": 27
+      "clearances_blocks_interceptions": 28
     },
     {
       "can_transact": true,
@@ -12854,7 +12854,7 @@
       "defending_bonus": 0,
       "winning_goals": 0,
       "key_passes": 0,
-      "clearances_blocks_interceptions": 3
+      "clearances_blocks_interceptions": 4
     },
     {
       "can_transact": true,

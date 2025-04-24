@@ -16,21 +16,6 @@
       "is_home": true
     },
     {
-      "id": 46,
-      "code": 2496324,
-      "team_h": 21,
-      "team_h_score": null,
-      "team_a": 7,
-      "team_a_score": null,
-      "event": 6,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-04-28T17:00:00Z",
-      "event_name": "Omg\u00e5ng 6",
-      "is_home": false
-    },
-    {
       "id": 51,
       "code": 2496331,
       "team_h": 7,
@@ -389,6 +374,20 @@
       "kickoff_time": "2025-11-09T00:00:00Z",
       "event_name": "Omg\u00e5ng 30",
       "is_home": false
+    },
+    {
+      "id": 46,
+      "code": 2496324,
+      "team_h": 21,
+      "team_h_score": null,
+      "team_a": 7,
+      "team_a_score": null,
+      "event": null,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": null,
+      "is_home": false
     }
   ],
   "history": [
@@ -523,6 +522,39 @@
       "selected": 1383,
       "transfers_in": 75,
       "transfers_out": 109
+    },
+    {
+      "element": 421,
+      "fixture": 37,
+      "opponent_team": 26,
+      "total_points": 0,
+      "was_home": true,
+      "kickoff_time": "2025-04-24T17:00:00Z",
+      "team_h_score": null,
+      "team_a_score": null,
+      "round": 5,
+      "modified": false,
+      "minutes": 0,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 0,
+      "value": 80,
+      "transfers_balance": -48,
+      "selected": 1349,
+      "transfers_in": 50,
+      "transfers_out": 98
     }
   ],
   "history_past": []

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 76,
-      "code": 2496358,
-      "team_h": 26,
-      "team_h_score": null,
-      "team_a": 30,
-      "team_a_score": null,
-      "event": 10,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-05-18T14:30:00Z",
-      "event_name": "Omg\u00e5ng 10",
-      "is_home": true
-    },
-    {
       "id": 82,
       "code": 2496370,
       "team_h": 18,
@@ -613,6 +598,39 @@
       "selected": 1360,
       "transfers_in": 51,
       "transfers_out": 34
+    },
+    {
+      "element": 353,
+      "fixture": 76,
+      "opponent_team": 30,
+      "total_points": 3,
+      "was_home": true,
+      "kickoff_time": "2025-05-18T14:30:00Z",
+      "team_h_score": 1,
+      "team_a_score": 1,
+      "round": 10,
+      "modified": false,
+      "minutes": 90,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 3,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 14,
+      "value": 45,
+      "transfers_balance": 356,
+      "selected": 1785,
+      "transfers_in": 379,
+      "transfers_out": 23
     }
   ],
   "history_past": []

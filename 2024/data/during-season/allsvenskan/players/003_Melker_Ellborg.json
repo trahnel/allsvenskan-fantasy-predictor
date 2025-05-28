@@ -40,8 +40,8 @@
       "event": 14,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2025-07-05T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2025-07-05T13:00:00Z",
       "event_name": "Omg\u00e5ng 14",
       "is_home": false
     },

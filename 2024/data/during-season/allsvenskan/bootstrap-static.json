@@ -2116,7 +2116,7 @@
       "win": 0
     }
   ],
-  "total_players": 68827,
+  "total_players": 68828,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5691,8 +5691,8 @@
       "team": 3,
       "team_code": 3056,
       "total_points": 39,
-      "transfers_in": 2922,
-      "transfers_in_event": 103,
+      "transfers_in": 2923,
+      "transfers_in_event": 104,
       "transfers_out": 1787,
       "transfers_out_event": 35,
       "value_form": "0.8",
@@ -21255,8 +21255,8 @@
       "total_points": 1,
       "transfers_in": 1108,
       "transfers_in_event": 67,
-      "transfers_out": 1125,
-      "transfers_out_event": 48,
+      "transfers_out": 1126,
+      "transfers_out_event": 49,
       "value_form": "0.0",
       "value_season": "0.2",
       "web_name": "Jakobsson",

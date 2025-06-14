@@ -2133,7 +2133,7 @@
       "win": 0
     }
   ],
-  "total_players": 68884,
+  "total_players": 68886,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2601,7 +2601,7 @@
       "points_per_game": "4.3",
       "removed": false,
       "second_name": "Stryger Larsen",
-      "selected_by_percent": "14.5",
+      "selected_by_percent": "14.4",
       "special": false,
       "squad_number": null,
       "status": "a",

@@ -2133,7 +2133,7 @@
       "win": 0
     }
   ],
-  "total_players": 68882,
+  "total_players": 68883,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2601,7 +2601,7 @@
       "points_per_game": "4.3",
       "removed": false,
       "second_name": "Stryger Larsen",
-      "selected_by_percent": "14.4",
+      "selected_by_percent": "14.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6392,8 +6392,8 @@
       "total_points": 64,
       "transfers_in": 10517,
       "transfers_in_event": 519,
-      "transfers_out": 6920,
-      "transfers_out_event": 132,
+      "transfers_out": 6921,
+      "transfers_out_event": 133,
       "value_form": "0.6",
       "value_season": "8.8",
       "web_name": "Walta",
@@ -12404,8 +12404,8 @@
       "team": 7,
       "team_code": 1406,
       "total_points": 44,
-      "transfers_in": 6198,
-      "transfers_in_event": 83,
+      "transfers_in": 6199,
+      "transfers_in_event": 84,
       "transfers_out": 4400,
       "transfers_out_event": 137,
       "value_form": "0.5",

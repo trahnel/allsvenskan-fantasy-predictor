@@ -2133,7 +2133,7 @@
       "win": 0
     }
   ],
-  "total_players": 68888,
+  "total_players": 68889,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2300,8 +2300,8 @@
       "total_points": 41,
       "transfers_in": 6705,
       "transfers_in_event": 8,
-      "transfers_out": 5669,
-      "transfers_out_event": 241,
+      "transfers_out": 5670,
+      "transfers_out_event": 242,
       "value_form": "0.0",
       "value_season": "6.7",
       "web_name": "Friedrich",
@@ -16620,8 +16620,8 @@
       "team": 12,
       "team_code": 195,
       "total_points": 63,
-      "transfers_in": 6589,
-      "transfers_in_event": 226,
+      "transfers_in": 6590,
+      "transfers_in_event": 227,
       "transfers_out": 1660,
       "transfers_out_event": 105,
       "value_form": "1.2",

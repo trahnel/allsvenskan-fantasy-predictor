@@ -2133,7 +2133,7 @@
       "win": 0
     }
   ],
-  "total_players": 68890,
+  "total_players": 68892,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -9924,8 +9924,8 @@
       "team": 5,
       "team_code": 375,
       "total_points": 46,
-      "transfers_in": 10386,
-      "transfers_in_event": 56,
+      "transfers_in": 10387,
+      "transfers_in_event": 57,
       "transfers_out": 7942,
       "transfers_out_event": 88,
       "value_form": "0.4",
@@ -21024,8 +21024,8 @@
       "total_points": 48,
       "transfers_in": 3037,
       "transfers_in_event": 65,
-      "transfers_out": 6405,
-      "transfers_out_event": 185,
+      "transfers_out": 6406,
+      "transfers_out_event": 186,
       "value_form": "0.2",
       "value_season": "8.1",
       "web_name": "Agnero",

@@ -2133,7 +2133,7 @@
       "win": 0
     }
   ],
-  "total_players": 68892,
+  "total_players": 68893,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3602,8 +3602,8 @@
       "total_points": 62,
       "transfers_in": 7351,
       "transfers_in_event": 313,
-      "transfers_out": 1941,
-      "transfers_out_event": 252,
+      "transfers_out": 1942,
+      "transfers_out_event": 253,
       "value_form": "0.9",
       "value_season": "10.0",
       "web_name": "Rosengren",
@@ -8367,7 +8367,7 @@
       "points_per_game": "5.4",
       "removed": false,
       "second_name": "Fenger",
-      "selected_by_percent": "41.5",
+      "selected_by_percent": "41.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17426,8 +17426,8 @@
       "team": 12,
       "team_code": 195,
       "total_points": 61,
-      "transfers_in": 5548,
-      "transfers_in_event": 210,
+      "transfers_in": 5549,
+      "transfers_in_event": 211,
       "transfers_out": 2807,
       "transfers_out_event": 61,
       "value_form": "0.6",

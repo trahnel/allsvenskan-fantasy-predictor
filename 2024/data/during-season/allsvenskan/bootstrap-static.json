@@ -2156,7 +2156,7 @@
       "win": 0
     }
   ],
-  "total_players": 69176,
+  "total_players": 69177,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -27643,7 +27643,7 @@
       "attacking_bonus": 1,
       "defending_bonus": 0,
       "winning_goals": 0,
-      "key_passes": 7,
+      "key_passes": 6,
       "clearances_blocks_interceptions": 22
     },
     {

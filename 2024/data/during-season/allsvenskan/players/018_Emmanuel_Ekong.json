@@ -733,7 +733,7 @@
       "defending_bonus": 0,
       "winning_goals": 0,
       "key_passes": 0,
-      "clearances_blocks_interceptions": 0,
+      "clearances_blocks_interceptions": 1,
       "value": 76,
       "transfers_balance": -8,
       "selected": 462,

@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 167,
-      "code": 2496450,
-      "team_h": 18,
-      "team_h_score": null,
-      "team_a": 6,
-      "team_a_score": null,
-      "event": 21,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2025-08-24T14:30:00Z",
-      "event_name": "Omg\u00e5ng 21",
-      "is_home": true
-    },
-    {
       "id": 173,
       "code": 2496455,
       "team_h": 4,
@@ -811,6 +796,39 @@
       "selected": 323,
       "transfers_in": 8,
       "transfers_out": 13
+    },
+    {
+      "element": 351,
+      "fixture": 167,
+      "opponent_team": 6,
+      "total_points": 0,
+      "was_home": true,
+      "kickoff_time": "2025-08-24T14:30:00Z",
+      "team_h_score": 1,
+      "team_a_score": 5,
+      "round": 21,
+      "modified": false,
+      "minutes": 0,
+      "goals_scored": 0,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 0,
+      "value": 53,
+      "transfers_balance": -11,
+      "selected": 312,
+      "transfers_in": 4,
+      "transfers_out": 15
     }
   ],
   "history_past": [

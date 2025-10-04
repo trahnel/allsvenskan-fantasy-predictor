@@ -1,0 +1,81 @@
+{
+  "fixtures": [
+    {
+      "id": 204,
+      "code": 2496485,
+      "team_h": 30,
+      "team_h_score": null,
+      "team_a": 9,
+      "team_a_score": null,
+      "event": 26,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-10-04T15:30:00Z",
+      "event_name": "Omg\u00e5ng 26",
+      "is_home": true
+    },
+    {
+      "id": 211,
+      "code": 2496493,
+      "team_h": 30,
+      "team_h_score": null,
+      "team_a": 7,
+      "team_a_score": null,
+      "event": 27,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-10-19T12:00:00Z",
+      "event_name": "Omg\u00e5ng 27",
+      "is_home": true
+    },
+    {
+      "id": 218,
+      "code": 2496501,
+      "team_h": 21,
+      "team_h_score": null,
+      "team_a": 30,
+      "team_a_score": null,
+      "event": 28,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-10-27T18:00:00Z",
+      "event_name": "Omg\u00e5ng 28",
+      "is_home": false
+    },
+    {
+      "id": 228,
+      "code": 2496509,
+      "team_h": 30,
+      "team_h_score": null,
+      "team_a": 26,
+      "team_a_score": null,
+      "event": 29,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-11-02T15:30:00Z",
+      "event_name": "Omg\u00e5ng 29",
+      "is_home": true
+    },
+    {
+      "id": 237,
+      "code": 2496520,
+      "team_h": 1,
+      "team_h_score": null,
+      "team_a": 30,
+      "team_a_score": null,
+      "event": 30,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2025-11-09T14:00:00Z",
+      "event_name": "Omg\u00e5ng 30",
+      "is_home": false
+    }
+  ],
+  "history": [],
+  "history_past": []
+}

@@ -1693,8 +1693,8 @@
       "name": "Omg\u00e5ng 30",
       "deadline_time": "2025-11-09T13:55:00Z",
       "release_time": null,
-      "average_entry_score": 47,
-      "finished": false,
+      "average_entry_score": 52,
+      "finished": true,
       "data_checked": false,
       "highest_scoring_entry": 21722,
       "deadline_time_epoch": 1762696500,
@@ -1959,7 +1959,7 @@
       "name": "Fas 7",
       "start_event": 29,
       "stop_event": 30,
-      "highest_score": 234
+      "highest_score": 241
     }
   ],
   "teams": [

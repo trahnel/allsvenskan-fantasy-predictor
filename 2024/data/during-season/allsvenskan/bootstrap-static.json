@@ -615,11 +615,8 @@
       ],
       "most_selected": 260,
       "most_transferred_in": 406,
-      "top_element": 422,
-      "top_element_info": {
-        "id": 422,
-        "points": 18
-      },
+      "top_element": null,
+      "top_element_info": null,
       "transfers_made": 75800,
       "most_captained": 39,
       "most_vice_captained": 39
@@ -951,11 +948,8 @@
       ],
       "most_selected": 39,
       "most_transferred_in": 406,
-      "top_element": 389,
-      "top_element_info": {
-        "id": 389,
-        "points": 16
-      },
+      "top_element": null,
+      "top_element_info": null,
       "transfers_made": 43286,
       "most_captained": 39,
       "most_vice_captained": 39

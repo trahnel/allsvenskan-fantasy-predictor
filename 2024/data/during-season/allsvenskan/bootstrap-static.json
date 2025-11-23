@@ -987,34 +987,17 @@
         "element_types": [],
         "pick_multiplier": null
       },
-      "chip_plays": [
-        {
-          "chip_name": "wildcard",
-          "num_played": 547
-        },
-        {
-          "chip_name": "pdbus",
-          "num_played": 1188
-        },
-        {
-          "chip_name": "2capt",
-          "num_played": 1176
-        },
-        {
-          "chip_name": "uteam",
-          "num_played": 53
-        }
-      ],
-      "most_selected": 260,
-      "most_transferred_in": 22,
+      "chip_plays": [],
+      "most_selected": null,
+      "most_transferred_in": null,
       "top_element": 173,
       "top_element_info": {
         "id": 173,
         "points": 20
       },
-      "transfers_made": 29215,
-      "most_captained": 39,
-      "most_vice_captained": 39
+      "transfers_made": null,
+      "most_captained": null,
+      "most_vice_captained": null
     },
     {
       "id": 18,

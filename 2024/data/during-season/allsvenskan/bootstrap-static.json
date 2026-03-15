@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 17252,
+  "total_players": 17266,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2299,7 +2299,7 @@
       "points_per_game": "5.3",
       "removed": false,
       "second_name": "Jansson",
-      "selected_by_percent": "9.0",
+      "selected_by_percent": "8.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -5371,7 +5371,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Soumah",
-      "selected_by_percent": "22.1",
+      "selected_by_percent": "22.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13179,7 +13179,7 @@
       "points_per_game": "2.3",
       "removed": false,
       "second_name": "Haarala",
-      "selected_by_percent": "1.5",
+      "selected_by_percent": "1.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17083,7 +17083,7 @@
       "points_per_game": "4.5",
       "removed": false,
       "second_name": "Iqbal",
-      "selected_by_percent": "11.8",
+      "selected_by_percent": "11.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -17467,7 +17467,7 @@
       "points_per_game": "7.8",
       "removed": false,
       "second_name": "Stroud",
-      "selected_by_percent": "30.2",
+      "selected_by_percent": "30.3",
       "special": false,
       "squad_number": null,
       "status": "a",

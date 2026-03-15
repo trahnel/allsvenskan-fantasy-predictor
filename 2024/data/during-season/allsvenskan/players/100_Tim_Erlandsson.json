@@ -121,6 +121,21 @@
       "is_home": false
     },
     {
+      "id": 116,
+      "code": 2615355,
+      "team_h": 5,
+      "team_h_score": null,
+      "team_a": 14,
+      "team_a_score": null,
+      "event": 8,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2026-05-21T17:00:00Z",
+      "event_name": "Omg\u00e5ng 8",
+      "is_home": true
+    },
+    {
       "id": 71,
       "code": 2615306,
       "team_h": 5,
@@ -209,21 +224,6 @@
       "kickoff_time": "2026-07-25T23:00:00Z",
       "event_name": "Omg\u00e5ng 14",
       "is_home": false
-    },
-    {
-      "id": 116,
-      "code": 2615355,
-      "team_h": 5,
-      "team_h_score": null,
-      "team_a": 14,
-      "team_a_score": null,
-      "event": 15,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-08-01T23:00:00Z",
-      "event_name": "Omg\u00e5ng 15",
-      "is_home": true
     },
     {
       "id": 125,

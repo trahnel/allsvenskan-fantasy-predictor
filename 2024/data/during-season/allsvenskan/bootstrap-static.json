@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 19840,
+  "total_players": 19848,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5883,7 +5883,7 @@
       "points_per_game": "4.0",
       "removed": false,
       "second_name": "Bjerkebo",
-      "selected_by_percent": "23.6",
+      "selected_by_percent": "23.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -9595,7 +9595,7 @@
       "points_per_game": "3.0",
       "removed": false,
       "second_name": "Ihler",
-      "selected_by_percent": "2.0",
+      "selected_by_percent": "1.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -11259,7 +11259,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Andersen",
-      "selected_by_percent": "9.8",
+      "selected_by_percent": "9.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -24187,7 +24187,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Laturnus",
-      "selected_by_percent": "0.6",
+      "selected_by_percent": "0.5",
       "special": false,
       "squad_number": null,
       "status": "a",

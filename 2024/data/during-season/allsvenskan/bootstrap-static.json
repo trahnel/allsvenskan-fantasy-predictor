@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 20783,
+  "total_players": 20787,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3835,7 +3835,7 @@
       "points_per_game": "5.1",
       "removed": false,
       "second_name": "Eriksson",
-      "selected_by_percent": "30.3",
+      "selected_by_percent": "30.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -6395,7 +6395,7 @@
       "points_per_game": "5.0",
       "removed": false,
       "second_name": "Ure",
-      "selected_by_percent": "53.7",
+      "selected_by_percent": "53.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15227,7 +15227,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Ciss\u00e9",
-      "selected_by_percent": "11.4",
+      "selected_by_percent": "11.3",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -21307,7 +21307,7 @@
       "points_per_game": "6.1",
       "removed": false,
       "second_name": "Vukojevic",
-      "selected_by_percent": "8.9",
+      "selected_by_percent": "9.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -25083,7 +25083,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Gefvert",
-      "selected_by_percent": "5.4",
+      "selected_by_percent": "5.3",
       "special": false,
       "squad_number": null,
       "status": "a",

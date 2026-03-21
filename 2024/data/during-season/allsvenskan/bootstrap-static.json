@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 22995,
+  "total_players": 23006,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -7739,7 +7739,7 @@
       "points_per_game": "4.2",
       "removed": false,
       "second_name": "Th\u00f3rdarson",
-      "selected_by_percent": "20.3",
+      "selected_by_percent": "20.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15611,7 +15611,7 @@
       "points_per_game": "4.0",
       "removed": false,
       "second_name": "Hove",
-      "selected_by_percent": "8.7",
+      "selected_by_percent": "8.6",
       "special": false,
       "squad_number": null,
       "status": "a",

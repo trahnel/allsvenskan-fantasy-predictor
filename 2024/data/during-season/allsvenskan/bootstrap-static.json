@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 22993,
+  "total_players": 22995,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2555,7 +2555,7 @@
       "points_per_game": "3.8",
       "removed": false,
       "second_name": "R\u00f6sler",
-      "selected_by_percent": "4.5",
+      "selected_by_percent": "4.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10107,7 +10107,7 @@
       "points_per_game": "2.8",
       "removed": false,
       "second_name": "Lundkvist",
-      "selected_by_percent": "1.4",
+      "selected_by_percent": "1.5",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15611,7 +15611,7 @@
       "points_per_game": "4.0",
       "removed": false,
       "second_name": "Hove",
-      "selected_by_percent": "8.6",
+      "selected_by_percent": "8.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -18427,7 +18427,7 @@
       "points_per_game": "3.0",
       "removed": false,
       "second_name": "Kaib",
-      "selected_by_percent": "0.8",
+      "selected_by_percent": "0.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -21883,7 +21883,7 @@
       "points_per_game": "1.9",
       "removed": false,
       "second_name": "Strand",
-      "selected_by_percent": "5.4",
+      "selected_by_percent": "5.5",
       "special": false,
       "squad_number": null,
       "status": "a",

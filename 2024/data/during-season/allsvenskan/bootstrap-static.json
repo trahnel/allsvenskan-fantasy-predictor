@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 23670,
+  "total_players": 23671,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5371,7 +5371,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Soumah",
-      "selected_by_percent": "19.5",
+      "selected_by_percent": "19.4",
       "special": false,
       "squad_number": null,
       "status": "a",

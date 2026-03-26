@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 27021,
+  "total_players": 27025,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -11643,7 +11643,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Lindgren",
-      "selected_by_percent": "2.1",
+      "selected_by_percent": "2.0",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -12411,7 +12411,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Anderson",
-      "selected_by_percent": "3.7",
+      "selected_by_percent": "3.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -27771,7 +27771,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Salter",
-      "selected_by_percent": "6.2",
+      "selected_by_percent": "6.1",
       "special": false,
       "squad_number": null,
       "status": "a",

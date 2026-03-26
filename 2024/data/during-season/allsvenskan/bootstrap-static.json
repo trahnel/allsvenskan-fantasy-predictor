@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 27753,
+  "total_players": 27760,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5563,7 +5563,7 @@
       "points_per_game": "3.3",
       "removed": false,
       "second_name": "Sandberg",
-      "selected_by_percent": "5.0",
+      "selected_by_percent": "4.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -9083,7 +9083,7 @@
       "points_per_game": "2.7",
       "removed": false,
       "second_name": "Zeneli",
-      "selected_by_percent": "3.0",
+      "selected_by_percent": "2.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -10747,7 +10747,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Rygaard",
-      "selected_by_percent": "1.7",
+      "selected_by_percent": "1.6",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -21627,7 +21627,7 @@
       "points_per_game": "4.5",
       "removed": false,
       "second_name": "Timossi Andersson",
-      "selected_by_percent": "11.5",
+      "selected_by_percent": "11.4",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -23931,7 +23931,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Lagerlund",
-      "selected_by_percent": "1.1",
+      "selected_by_percent": "1.2",
       "special": false,
       "squad_number": null,
       "status": "a",

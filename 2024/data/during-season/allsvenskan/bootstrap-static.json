@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 27769,
+  "total_players": 27772,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -10235,7 +10235,7 @@
       "points_per_game": "2.9",
       "removed": false,
       "second_name": "Helander",
-      "selected_by_percent": "1.8",
+      "selected_by_percent": "1.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -14843,7 +14843,7 @@
       "points_per_game": "4.4",
       "removed": false,
       "second_name": "Nordfeldt",
-      "selected_by_percent": "16.8",
+      "selected_by_percent": "16.9",
       "special": false,
       "squad_number": null,
       "status": "a",

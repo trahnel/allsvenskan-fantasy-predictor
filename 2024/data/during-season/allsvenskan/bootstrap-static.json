@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 28487,
+  "total_players": 28490,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2427,7 +2427,7 @@
       "points_per_game": "3.7",
       "removed": false,
       "second_name": "Kurtulus",
-      "selected_by_percent": "6.0",
+      "selected_by_percent": "5.9",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -15675,7 +15675,7 @@
       "points_per_game": "1.4",
       "removed": false,
       "second_name": "Yohanna",
-      "selected_by_percent": "37.1",
+      "selected_by_percent": "37.2",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -27899,7 +27899,7 @@
       "points_per_game": "1.2",
       "removed": false,
       "second_name": "Hedlund",
-      "selected_by_percent": "1.9",
+      "selected_by_percent": "1.8",
       "special": false,
       "squad_number": null,
       "status": "a",

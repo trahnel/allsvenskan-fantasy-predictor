@@ -1884,7 +1884,7 @@
       "win": 0
     }
   ],
-  "total_players": 28485,
+  "total_players": 28487,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -2875,7 +2875,7 @@
       "points_per_game": "3.1",
       "removed": false,
       "second_name": "Ali",
-      "selected_by_percent": "4.9",
+      "selected_by_percent": "4.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -4283,7 +4283,7 @@
       "points_per_game": "6.7",
       "removed": false,
       "second_name": "Besara",
-      "selected_by_percent": "59.2",
+      "selected_by_percent": "59.3",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -19963,7 +19963,7 @@
       "points_per_game": "3.9",
       "removed": false,
       "second_name": "Igonen",
-      "selected_by_percent": "15.0",
+      "selected_by_percent": "15.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -28219,7 +28219,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Pettersson",
-      "selected_by_percent": "0.5",
+      "selected_by_percent": "0.4",
       "special": false,
       "squad_number": null,
       "status": "a",

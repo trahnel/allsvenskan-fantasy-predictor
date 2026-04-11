@@ -1913,7 +1913,7 @@
       "win": 0
     }
   ],
-  "total_players": 54226,
+  "total_players": 54234,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -25792,7 +25792,7 @@
     {
       "can_transact": true,
       "can_select": true,
-      "chance_of_playing_next_round": null,
+      "chance_of_playing_next_round": 0,
       "chance_of_playing_this_round": null,
       "code": 157795,
       "cost_change_event": 0,
@@ -25809,8 +25809,8 @@
       "form": "1.0",
       "id": 372,
       "in_dreamteam": false,
-      "news": "",
-      "news_added": null,
+      "news": "Avst\u00e4ngd omg 2.",
+      "news_added": "2026-04-11T07:45:52.443349Z",
       "now_cost": 55,
       "photo": "157795.jpg",
       "points_per_game": "1.0",
@@ -25819,7 +25819,7 @@
       "selected_by_percent": "0.8",
       "special": false,
       "squad_number": null,
-      "status": "a",
+      "status": "s",
       "team": 29,
       "team_code": 6211,
       "total_points": 1,

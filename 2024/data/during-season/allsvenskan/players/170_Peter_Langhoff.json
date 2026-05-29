@@ -115,8 +115,8 @@
       "event": 18,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-08-22T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-08-24T17:00:00Z",
       "event_name": "Omg\u00e5ng 18",
       "is_home": false
     },
@@ -130,10 +130,25 @@
       "event": 19,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-08-29T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-08-31T17:00:00Z",
       "event_name": "Omg\u00e5ng 19",
       "is_home": true
+    },
+    {
+      "id": 79,
+      "code": 2615314,
+      "team_h": 14,
+      "team_h_score": null,
+      "team_a": 7,
+      "team_a_score": null,
+      "event": 19,
+      "finished": false,
+      "minutes": 0,
+      "provisional_start_time": false,
+      "kickoff_time": "2026-09-03T17:00:00Z",
+      "event_name": "Omg\u00e5ng 19",
+      "is_home": false
     },
     {
       "id": 156,
@@ -145,8 +160,8 @@
       "event": 20,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-09-05T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-09-07T17:00:00Z",
       "event_name": "Omg\u00e5ng 20",
       "is_home": false
     },
@@ -160,8 +175,8 @@
       "event": 21,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-09-12T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-09-14T17:00:00Z",
       "event_name": "Omg\u00e5ng 21",
       "is_home": true
     },
@@ -175,8 +190,8 @@
       "event": 22,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-09-19T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-09-20T12:00:00Z",
       "event_name": "Omg\u00e5ng 22",
       "is_home": true
     },
@@ -190,8 +205,8 @@
       "event": 23,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-10-10T23:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-10-11T12:00:00Z",
       "event_name": "Omg\u00e5ng 23",
       "is_home": false
     },
@@ -299,20 +314,6 @@
       "kickoff_time": "2026-11-29T00:00:00Z",
       "event_name": "Omg\u00e5ng 30",
       "is_home": true
-    },
-    {
-      "id": 79,
-      "code": 2615314,
-      "team_h": 14,
-      "team_h_score": null,
-      "team_a": 7,
-      "team_a_score": null,
-      "event": null,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": null,
-      "is_home": false
     }
   ],
   "history": [

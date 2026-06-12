@@ -2126,7 +2126,7 @@
       "link_url": ""
     }
   ],
-  "total_players": 57336,
+  "total_players": 57337,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -5421,7 +5421,7 @@
       "points_per_game": "4.4",
       "removed": false,
       "second_name": "Celic",
-      "selected_by_percent": "8.0",
+      "selected_by_percent": "8.1",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -7540,8 +7540,8 @@
       "team": 4,
       "team_code": 244,
       "total_points": 64,
-      "transfers_in": 1451,
-      "transfers_in_event": 311,
+      "transfers_in": 1452,
+      "transfers_in_event": 312,
       "transfers_out": 3944,
       "transfers_out_event": 19,
       "value_form": "1.1",
@@ -11126,8 +11126,8 @@
       "total_points": 45,
       "transfers_in": 3437,
       "transfers_in_event": 79,
-      "transfers_out": 2716,
-      "transfers_out_event": 51,
+      "transfers_out": 2717,
+      "transfers_out_event": 52,
       "value_form": "0.7",
       "value_season": "5.7",
       "web_name": "Layouni",

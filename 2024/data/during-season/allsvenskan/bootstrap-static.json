@@ -2126,7 +2126,7 @@
       "link_url": ""
     }
   ],
-  "total_players": 57351,
+  "total_players": 57352,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -4269,7 +4269,7 @@
       "points_per_game": "4.1",
       "removed": false,
       "second_name": "Fofana",
-      "selected_by_percent": "1.9",
+      "selected_by_percent": "1.8",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13421,7 +13421,7 @@
       "points_per_game": "0.0",
       "removed": false,
       "second_name": "Haarala",
-      "selected_by_percent": "0.8",
+      "selected_by_percent": "0.7",
       "special": false,
       "squad_number": null,
       "status": "a",
@@ -13430,8 +13430,8 @@
       "total_points": 0,
       "transfers_in": 17,
       "transfers_in_event": 0,
-      "transfers_out": 536,
-      "transfers_out_event": 6,
+      "transfers_out": 537,
+      "transfers_out_event": 7,
       "value_form": "0.0",
       "value_season": "0.0",
       "web_name": "Haarala",
@@ -14964,8 +14964,8 @@
       "team": 10,
       "team_code": 2594,
       "total_points": 52,
-      "transfers_in": 13473,
-      "transfers_in_event": 225,
+      "transfers_in": 13474,
+      "transfers_in_event": 226,
       "transfers_out": 1300,
       "transfers_out_event": 110,
       "value_form": "0.9",

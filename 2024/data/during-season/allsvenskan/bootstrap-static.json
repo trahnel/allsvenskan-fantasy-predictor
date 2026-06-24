@@ -2126,7 +2126,7 @@
       "link_url": ""
     }
   ],
-  "total_players": 57368,
+  "total_players": 57369,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -3572,8 +3572,8 @@
       "team": 1,
       "team_code": 993,
       "total_points": 34,
-      "transfers_in": 329,
-      "transfers_in_event": 81,
+      "transfers_in": 330,
+      "transfers_in_event": 82,
       "transfers_out": 309,
       "transfers_out_event": 4,
       "value_form": "1.6",
@@ -4662,8 +4662,8 @@
       "total_points": 43,
       "transfers_in": 1182,
       "transfers_in_event": 15,
-      "transfers_out": 4497,
-      "transfers_out_event": 43,
+      "transfers_out": 4498,
+      "transfers_out_event": 44,
       "value_form": "0.6",
       "value_season": "4.9",
       "web_name": "Madjed",

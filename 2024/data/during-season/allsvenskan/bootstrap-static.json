@@ -2126,7 +2126,7 @@
       "link_url": ""
     }
   ],
-  "total_players": 57370,
+  "total_players": 57371,
   "element_stats": [
     {
       "label": "Spelade minuter",
@@ -11126,8 +11126,8 @@
       "total_points": 45,
       "transfers_in": 3438,
       "transfers_in_event": 80,
-      "transfers_out": 2750,
-      "transfers_out_event": 85,
+      "transfers_out": 2751,
+      "transfers_out_event": 86,
       "value_form": "1.0",
       "value_season": "5.7",
       "web_name": "Layouni",
@@ -12916,8 +12916,8 @@
       "team": 7,
       "team_code": 1406,
       "total_points": 63,
-      "transfers_in": 17001,
-      "transfers_in_event": 550,
+      "transfers_in": 17002,
+      "transfers_in_event": 551,
       "transfers_out": 2631,
       "transfers_out_event": 83,
       "value_form": "0.0",

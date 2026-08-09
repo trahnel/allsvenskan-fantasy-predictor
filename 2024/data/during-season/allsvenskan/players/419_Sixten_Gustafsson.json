@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 128,
-      "code": 2615360,
-      "team_h": 25,
-      "team_h_score": null,
-      "team_a": 12,
-      "team_a_score": null,
-      "event": 16,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-08T13:00:00Z",
-      "event_name": "Omg\u00e5ng 16",
-      "is_home": false
-    },
-    {
       "id": 131,
       "code": 2615366,
       "team_h": 7,
@@ -523,6 +508,39 @@
       "selected": 12,
       "transfers_in": 0,
       "transfers_out": 1
+    },
+    {
+      "element": 419,
+      "fixture": 128,
+      "opponent_team": 25,
+      "total_points": 6,
+      "was_home": false,
+      "kickoff_time": "2026-08-08T13:00:00Z",
+      "team_h_score": 3,
+      "team_a_score": 4,
+      "round": 16,
+      "modified": false,
+      "minutes": 23,
+      "goals_scored": 1,
+      "assists": 0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "penalties_saved": 0,
+      "penalties_missed": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "saves": 0,
+      "own_goals": 0,
+      "attacking_bonus": 0,
+      "defending_bonus": 0,
+      "winning_goals": 0,
+      "key_passes": 0,
+      "clearances_blocks_interceptions": 2,
+      "value": 49,
+      "transfers_balance": 2,
+      "selected": 9,
+      "transfers_in": 2,
+      "transfers_out": 0
     }
   ],
   "history_past": []

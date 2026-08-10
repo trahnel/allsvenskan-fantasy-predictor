@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": 124,
-      "code": 2615362,
-      "team_h": 1,
-      "team_h_score": null,
-      "team_a": 16,
-      "team_a_score": null,
-      "event": 16,
-      "finished": false,
-      "minutes": 0,
-      "provisional_start_time": false,
-      "kickoff_time": "2026-08-09T12:00:00Z",
-      "event_name": "Omg\u00e5ng 16",
-      "is_home": false
-    },
-    {
       "id": 130,
       "code": 2615372,
       "team_h": 16,
@@ -729,8 +714,8 @@
       "total_points": 0,
       "was_home": false,
       "kickoff_time": "2026-08-09T12:00:00Z",
-      "team_h_score": null,
-      "team_a_score": null,
+      "team_h_score": 1,
+      "team_a_score": 2,
       "round": 16,
       "modified": false,
       "minutes": 0,

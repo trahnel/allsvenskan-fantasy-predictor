@@ -145,8 +145,8 @@
       "event": 29,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-11-22T00:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-11-22T13:00:00Z",
       "event_name": "Omg\u00e5ng 29",
       "is_home": false
     },
@@ -160,8 +160,8 @@
       "event": 30,
       "finished": false,
       "minutes": 0,
-      "provisional_start_time": true,
-      "kickoff_time": "2026-11-29T00:00:00Z",
+      "provisional_start_time": false,
+      "kickoff_time": "2026-11-29T14:00:00Z",
       "event_name": "Omg\u00e5ng 30",
       "is_home": true
     }
@@ -787,7 +787,7 @@
       "defending_bonus": 0,
       "winning_goals": 0,
       "key_passes": 0,
-      "clearances_blocks_interceptions": 9,
+      "clearances_blocks_interceptions": 8,
       "value": 55,
       "transfers_balance": 219,
       "selected": 10821,

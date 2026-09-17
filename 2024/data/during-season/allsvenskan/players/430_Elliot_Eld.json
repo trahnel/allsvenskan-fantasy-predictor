@@ -71,7 +71,7 @@
       "finished": false,
       "minutes": 0,
       "provisional_start_time": false,
-      "kickoff_time": "2026-10-29T18:00:00Z",
+      "kickoff_time": "2026-10-29T17:30:00Z",
       "event_name": "Omg\u00e5ng 26",
       "is_home": false
     },
@@ -473,7 +473,7 @@
       "opponent_team": 16,
       "total_points": 0,
       "was_home": true,
-      "kickoff_time": "2026-09-14T17:00:00Z",
+      "kickoff_time": "2026-09-14T17:20:00Z",
       "team_h_score": 2,
       "team_a_score": 0,
       "round": 21,
